@@ -13,7 +13,7 @@ public class HelloWorld {
 		/*System.out.println("Got");
 		System.out.println("A");
 		System.out.println("BIG");*/
-		System.out.println("Sock");
+	
 		
 	}
 
