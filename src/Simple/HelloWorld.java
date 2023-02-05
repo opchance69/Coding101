@@ -7,14 +7,21 @@ public class HelloWorld {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+	    String message = "Tings n stuff";
+	    System.out.println(message);
+	    message = "boobies";
+	    System.out.println(message);
+	    String otherMessage = "tits";
+	    System.out.println(message + " " + otherMessage);
+	    // TODO Auto-generated method stub
 		//System.out.println("Hi");
 		System.out.println("I");
 		/*System.out.println("Got");
 		System.out.println("A");
 		System.out.println("BIG");*/
-	
+	    System.out.println("Boob Tits");
 		
 	}
 
-}
+} 
